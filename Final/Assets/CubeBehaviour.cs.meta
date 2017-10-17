@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e7beebd4a389ddc49a6fc08726fa41a1
+timeCreated: 1508212417
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bronzeHighlight: {fileID: 2100000, guid: 91ea7ffaa7d7c97448910c3022018e45, type: 2}
+  - silverHighlight: {fileID: 2100000, guid: 53342b8f9f53c5e4d83ae5ac587498a2, type: 2}
+  - goldHighlight: {fileID: 2100000, guid: 1a81819dcaea9a241812afdbdc161d5e, type: 2}
+  - bronzeColor: {fileID: 2100000, guid: 42a2c19bb0f201445a086050101825cd, type: 2}
+  - silverColor: {fileID: 2100000, guid: 668c05c4b47ea1545b6654f188cca5ff, type: 2}
+  - goldColor: {fileID: 2100000, guid: 2b9f5e8a48f3d344081e4729920fefd4, type: 2}
+  - bronzeSound: {fileID: 1982400326788936, guid: 62d91582ee6eca9448d5665210ecdc15,
+      type: 2}
+  - silverSound: {fileID: 1690262920918434, guid: 8d58ebc34d9356e4b9cbda90bbb80f1e,
+      type: 2}
+  - goldSound: {fileID: 1202110850003148, guid: b6c3d211dcc84004e8bbf70dee0f0e48,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

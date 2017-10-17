@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17a006cf0f2f26043b73e5e6f664edfd
+timeCreated: 1507746294
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefab: {fileID: 1483229681189222, guid: 4f828d1c12283e745a05001e138ee570,
+      type: 2}
+  - silverPrefab: {fileID: 1880214044113894, guid: c6a9ca455ae9c4840a1bd771767799cb,
+      type: 2}
+  - goldPrefab: {fileID: 1528574054223518, guid: 5c4fff8f51b9a52458561267eed24809,
+      type: 2}
+  - bronzeColor: {fileID: 2100000, guid: 42a2c19bb0f201445a086050101825cd, type: 2}
+  - silverColor: {fileID: 2100000, guid: 668c05c4b47ea1545b6654f188cca5ff, type: 2}
+  - goldColor: {fileID: 2100000, guid: 2b9f5e8a48f3d344081e4729920fefd4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
